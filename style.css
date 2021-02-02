@@ -1,0 +1,12 @@
+body{
+    text-align: center;
+    background-color: midnightblue;
+}
+img{
+    height: 300px;
+    width: 300px;
+}
+h1{
+    color: lime;
+    font-size: 80px;
+}
